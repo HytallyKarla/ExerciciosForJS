@@ -1,3 +1,6 @@
+/*Utilizando o FOR, faça um algoritmo que receba 5 números e conte
+quantos estão entre o intervalo dos números 1 - 10.*/
+
 var numero 
 var intervalo = 0 
 

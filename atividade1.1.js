@@ -1,3 +1,8 @@
+/* *Exercício Bônus que combinamos em aula* Faça um algoritmo que
+receberá 4 palavras diferentes de seu usuário e irá concatenar todas
+elas.*/
+
+
 var nome 
 var frase = ""
 
